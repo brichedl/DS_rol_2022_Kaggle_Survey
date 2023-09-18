@@ -24,16 +24,16 @@ Categorizing experts based on their data science role, a geographical classifica
 
 ## The most used technologies and preferred techniques by data scientists.
 
-|      technologies and/or techniques          |1                         |2                       |3                       |
-|----------------|-------------------------------|-----------------------------|
-|      Coding Language          |Python                         |SQL                      |R                       |
-|      Integrated Development Environments IDE’s          |Jupyter Notebook                         |Visual Studio Code                      |JupyterLab                       |
-|      Data Visualisation Packages         |Matplotlib                         |Seaborn                      |Plotly                       |
-|      Cloud computing  platforms         |AWS                         |GCP                      |Azure                       |
-|      Databases         |MySQL                         |PostgreSQL                      |Microsoft SQL Server                      |
-|      Business intelligence tools         |Tableau                       |None                      |Microsoft Power BI                       |
-|      Machine Learning Frameworks         |Scikit-learn                         |XGBoost                      |TensorFlow                       |
-|      Machine Learning algorithms         |Linear Regression                        |Decision Trees                      |Gradient Boosting Machines                       |
-|      Favorite media sources on data science topics         |Blogs                        |Kaggle                      |YouTube                       |
+|technologies and/or techniques|1                             |2                             |3                             |
+|------------------------------|------------------------------|------------------------------|------------------------------|
+|Coding Language               |Python                        |SQL                           |R                             |
+|IDE’s                         |Jupyter Notebook              |Visual Studio Code            |JupyterLab                    |
+|Data Visualisation Packages   |Matplotlib                    |Seaborn                       |Plotly                        |
+|Cloud computing  platforms    |AWS                           |GCP                           |Azure                         |
+|Databases                     |MySQL                         |PostgreSQL                    |Microsoft SQL Server          |
+|Business intelligence tools   |Tableau                       |None                          |Microsoft Power BI            |
+|Machine Learning Frameworks   |Scikit-learn                  |XGBoost                       |TensorFlow                    |
+|Machine Learning algorithms   |Linear Regression             |Decision Trees                |Gradient Boosting Machines    |
+|Favorite media sources on data|Blogs                         |Kaggle                        |YouTube                       |
 
 
