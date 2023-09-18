@@ -24,9 +24,9 @@ Categorizing experts based on their data science role, a geographical classifica
 
 ## The most used technologies and preferred techniques by data scientists.
 
-|technologies and/or techniques|1                             |2                             |3                             |
+| technologies and/or techniques | 1                              | 2                              | 3                              |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|Coding Language               |Python                        |SQL                           |R                             |
+| Coding Language                | Python                        | SQL                           | R                             |
 |IDE’s                         |Jupyter Notebook              |Visual Studio Code            |JupyterLab                    |
 |Data Visualisation Packages   |Matplotlib                    |Seaborn                       |Plotly                        |
 |Cloud computing  platforms    |AWS                           |GCP                           |Azure                         |
