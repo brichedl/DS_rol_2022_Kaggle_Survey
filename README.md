@@ -2,7 +2,8 @@
 
 Data has become an international business and most companies are clamoring to make use of the vast amount of data that is generated every day. On the other hand, there are communities such as Kaggle, a community platform for data science and machine learning. This platform is globally accessible and has a large community of data scientists, enthusiasts and companies that participate in its competitions, collaborate on projects and share knowledge. It has important collaborators such as Microsoft, Google, Intel, Booz Allen Hamilton, Databricks, among others. As of July 2023, it remains one of the first platforms in education, allowing platform participants to be part of challenges and competitions associated with data.
 
-![image](https://photos.app.goo.gl/gxvA44AzgWEuWVPV9)
+![image](https://i.imgur.com/lbsNxm4.jpg)
+
 Platforms in data science education [1](https://i.imgur.com/lbsNxm4.jpg)
 
 Kaggle was founded in 2010, its main headquarters is in the United States. Google acquired Kaggle in 2017 and since then every year it conducts a survey to establish a comprehensive view of the state of data science and machine learning [2](https://www.kaggle.com/datasets/kaggle/kaggle-survey-2017). In this paper we will analyze the latest survey done to the current date, called 2022 Kaggle DS & ML Survey. Aiming to leverage the data obtained by the community and draw conclusions about demographics, industry of participation and preferred technologies in the area of data science.
